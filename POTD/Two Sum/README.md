@@ -1,3 +1,3 @@
 ## Problem 1: TWO SUM Errors
-![Problem Description](POTD/Two Sum/images/Screenshot 2024-12-30 140132.png)
+![Problem Description](https://github.com/atul21mangla/GFG160-and-POTD/blob/bd48b92f684919064eb69f5394bb8df69e410c14/POTD/Two%20Sum/images/Screenshot%202024-12-30%20140132.png)
 
