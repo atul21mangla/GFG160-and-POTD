@@ -1,6 +1,7 @@
 //  https://leetcode.com/problems/majority-element-ii/submissions/1492558793/
 
 // Brute force - O(N^2)
+// SC - O(N)
 
 vector<int> findMajority(vector<int> &arr) {
     int n = arr.size();
